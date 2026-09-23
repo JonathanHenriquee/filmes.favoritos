@@ -1,0 +1,22 @@
+/*reset margem*/
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+background-color: aliceblue;
+
+}
+
+section {
+    height: 400px;
+
+}
+td {
+background-image: url(./imagens/Sombreamento\ de\ verdade.webp);
+background-size: auto;
+background-position: center;
+}
+
